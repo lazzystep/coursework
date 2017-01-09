@@ -1,0 +1,52 @@
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\Course_work.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\Course_work.pdb
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\Course_work.xml
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\Antlr3.Runtime.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.AspNet.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.Core.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.OAuth.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.OpenId.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\EntityFramework.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\Microsoft.Web.Infrastructure.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\System.Web.Optimization.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\System.Web.Providers.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\WebGrease.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\EntityFramework.xml
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.Core.xml
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.OAuth.xml
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.OpenId.xml
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\bin\DotNetOpenAuth.AspNet.xml
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\obj\Debug\Course_work.vbprojResolveAssemblyReference.cache
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\obj\Debug\Course_work.Resources.resources
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\obj\Debug\Course_work.vbproj.GenerateResource.Cache
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\obj\Debug\Course_work.dll
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\obj\Debug\Course_work.xml
+c:\users\богдан\documents\visual studio 2012\Projects\Course_work\Course_work\obj\Debug\Course_work.pdb
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\Course_work.dll
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\Course_work.pdb
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\Course_work.xml
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\EntityFramework.xml
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\DotNetOpenAuth.Core.xml
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Богдан\Course_work\coursework\Course_work\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Богдан\Course_work\coursework\Course_work\obj\Debug\Course_work.vbprojResolveAssemblyReference.cache
+C:\Users\Богдан\Course_work\coursework\Course_work\obj\Debug\Course_work.Resources.resources
+C:\Users\Богдан\Course_work\coursework\Course_work\obj\Debug\Course_work.vbproj.GenerateResource.Cache
+C:\Users\Богдан\Course_work\coursework\Course_work\obj\Debug\Course_work.dll
+C:\Users\Богдан\Course_work\coursework\Course_work\obj\Debug\Course_work.xml
+C:\Users\Богдан\Course_work\coursework\Course_work\obj\Debug\Course_work.pdb
